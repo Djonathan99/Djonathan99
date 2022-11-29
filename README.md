@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá! 👋
 ##
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Cursando Jovem Programador no Senac.
